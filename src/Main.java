@@ -19,7 +19,6 @@ public class Main {
 		StudentGroup sg = new StudentGroup(st);
 
 		sg.remove(1);
-		;
 
 	}
 
